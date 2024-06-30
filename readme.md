@@ -15,7 +15,7 @@ Predicted Variable: 10-year risk of coronary heart disease CHD (binary: “1” 
 
 This script follows three main parts:
 
--Feature analysis 
+- Feature analysis 
 
 - Feature engineering
 
